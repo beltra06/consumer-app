@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useMemo, useState } from 'react'
+import ThemeContext from './context/ThemeContext'
+import LocaleContext from './context/LocaleContext'
+import useLanguage from './hook/useLanguage'
+import Navbar from './component/Navbar'
+import Routes from './route'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+const App = () => {
+    const [theme, setTheme] = useState()
+    const [locale, setLocale] = useState('id')
+    const value = useMemo(() => ({ theme, setTheme }), [theme, setTheme])
+    const valueLocale = useMemo(() => ({ locale, setLocale }), [locale, setLocale])
+
+    return (
+        <ThemeContext.Provider value={value}>
+            <LocaleContext.Provider value={valueLocale}>
+                <div className="App">
+                    <Navbar />
+                    <Routes />
+                </div>
+            </LocaleContext.Provider>
+        </ThemeContext.Provider>
+    )
+
+
 }
 
-export default App;
+export default App
