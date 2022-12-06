@@ -1,6 +1,6 @@
-const app = {
+const content = {
     id: {
-        nav:{
+        nav: {
             home : 'Beranda',
             break : 'Istirahat',
             bmi : 'Kalkulator BMI',
@@ -11,7 +11,7 @@ const app = {
     },
 
     en: {
-        nav:{
+        nav: {
             home : 'Home',
             break : 'Break',
             bmi : 'BMI Calculator',
@@ -22,4 +22,4 @@ const app = {
     }
 }
 
-export default app;
+export default content;
