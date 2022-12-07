@@ -4,6 +4,7 @@ import LocaleContext from './context/LocaleContext'
 import useLanguage from './hook/useLanguage'
 import Navbar from './component/Navbar'
 import Routes from './route'
+import './index.css'
 
 
 const App = () => {
