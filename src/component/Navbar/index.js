@@ -5,16 +5,14 @@ import LangToggler from '../LangToggler'
 import './index.css'
 
 function Navbar() {
-    const text = useLanguage('app')
-
+    const text = useLanguage()
     return (
         <header>
             <nav>
                 <h1>
                     <Link to="/">Super Health APP</Link>
                 </h1>
-                <ul>
-
+                <ul className='topnav' id='myTopNav'>
                     <li>
                         <Link to="/">{text.nav.home}</Link>
                     </li>
@@ -36,8 +34,11 @@ function Navbar() {
                     <li>
                         <LangToggler />
                     </li>
+
                 </ul>
             </nav>
+
+
         </header>
     )
 }
