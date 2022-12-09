@@ -8,9 +8,9 @@ function ContextProvider(props) {
 
     const [height, setHeight] = useInput('')
     const [weight, setWeight] = useInput('')
-    const [calorieHeight, setCalorieHeight] = useInput(0)
-    const [calorieWeight, setCalorieWeight] = useInput(0)
-    const [calorieAge, setCalorieAge] = useInput(0)
+    const [calorieHeight, setCalorieHeight] = useInput('')
+    const [calorieWeight, setCalorieWeight] = useInput('')
+    const [calorieAge, setCalorieAge] = useInput('')
     const [calorieGender, setCalorieGender] = useState('male')
     const [calorieActivity, setCalorieActivity] = useInput('')
     

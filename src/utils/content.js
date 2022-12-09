@@ -60,6 +60,13 @@ let content = {
             weight: 'Berat Badan (kg)',
             activity: 'Aktivitas Fisik',
             buttonReset: 'Reset',
+            activity1: 'Sangat Ringan',
+            activity2: 'Ringan',
+            activity3: 'Sedang',
+            activity4: 'Berat',
+            activity5: 'Sangat Berat',
+            calorieResult: 'Hasil Perhitungan',
+            line1: 'Kalori yang diperlukan tubuh anda adalah : ',
         }
     },
 
@@ -114,12 +121,19 @@ let content = {
             title: 'Calorie Calculator',
             desc: 'Calories are a unit of measurement of energy required by the body to perform daily activities. Calories required by the body to perform daily activities are called basal calories. Calories required by the body to perform physical activities are called physical activity calories. Calories required by the body to perform physical activities are called physical activity calories.',
             desc2: 'To calculate the calories required by your body, please fill in the following data :',
-            gender: 'gender',
+            gender: 'Gender',
             age: 'Age (years)',
             height: 'Height (cm)',
             weight: 'Weight (kg)',
             activity: 'Physical Activity',
             buttonReset: 'Reset',
+            activity1: 'Very Light',
+            activity2: 'Light',
+            activity3: 'Medium',
+            activity4: 'Heavy',
+            activity5: 'Very Heavy',
+            calorieResult: 'Calculation Result',
+            line1: 'The calories required by your body are : ',
         }
     }
 }
