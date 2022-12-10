@@ -21,7 +21,7 @@ const content = {
             creator: 'Kreator',
             creator1: 'Halo saya Mahran Radifan Zhafir, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App bertanggung jawab dalam isi konten dan juga riset mengenai website',
             creator2: 'Halo saya Tegar Alfalakh Thamrin, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App dan dan juga riset mengenai website',
-            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab dalam pembuatan logo dari Super Healthy App serta turut membantu styling tampilan',
+            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab dalam pembuatan logo dari Super Healthy App dan ikut turut membantu pada styling tampilan',
         },
     },
 
