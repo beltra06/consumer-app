@@ -70,7 +70,7 @@ let content = {
         },
 
         about: {
-            tagline: ' adalah platform digital untuk melakukan monitoring kesehatan tubuh anda dikala sedang melakukan pekerjaan dari rumah sehingga anda dapat tetap sehat dan tidak mudah terkena penyakit di era pandemi.',
+            tagline: 'adalah platform digital untuk melakukan monitoring kesehatan tubuh anda dikala sedang melakukan pekerjaan dari rumah sehingga anda dapat tetap sehat dan tidak mudah terkena penyakit di era pandemi.',
             banner: 'Kebahagiaan dimulai dengan kesehatan yang baik.',
             aboutvm1: 'Mudah Digunakan',
             aboutvm2: 'Pengingat Otomatis',
@@ -81,7 +81,7 @@ let content = {
             creator: 'Kreator',
             creator1: 'Halo saya Mahran Radifan Zhafir, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App bertanggung jawab dalam isi konten dan juga riset mengenai website',
             creator2: 'Halo saya Tegar Alfalakh Thamrin, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App dan dan juga riset mengenai website',
-            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab dalam pembuatan logo dari Super Healthy App dan turut membantu styling tampilan',
+            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab dalam pembuatan logo dari Super Healthy App serta turut membantu styling tampilan',
         },
     },
 
