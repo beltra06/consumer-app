@@ -79,9 +79,9 @@ let content = {
             vm2desc: 'Kamu bisa menentukan pengingat istirahat baik secara otomatis ataupun manual untuk mendapatkan waktu istirahat yang cukup.',
             vm3desc: 'Super Healthy dapat diakses melalui berbagai device serta dapat diakses dimanapun dan kapanpun.',
             creator: 'Kreator',
-            creator1: 'Halo saya Mahran Radifan Zhafir, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            creator2: 'Halo saya Tegar Alfalakh Thamrin, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            creator1: 'Halo saya Mahran Radifan Zhafir, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App bertanggung jawab dalam isi konten dan juga riset mengenai website',
+            creator2: 'Halo saya Tegar Alfalakh Thamrin, saya merupakan orang yang bertanggung jawab pada tampilan Front End website Super Health App dan dan juga riset mengenai website',
+            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab dalam pembuatan logo dari Super Healthy App dan turut membantu styling tampilan',
         },
     },
 
