@@ -60,7 +60,29 @@ let content = {
             weight: 'Berat Badan (kg)',
             activity: 'Aktivitas Fisik',
             buttonReset: 'Reset',
-        }
+            activity1: 'Sangat Ringan',
+            activity2: 'Ringan',
+            activity3: 'Sedang',
+            activity4: 'Berat',
+            activity5: 'Sangat Berat',
+            calorieResult: 'Hasil Perhitungan',
+            line1: 'Kalori yang diperlukan tubuh anda adalah : ',
+        },
+
+        about: {
+            tagline: ' adalah platform digital untuk melakukan monitoring kesehatan tubuh anda dikala sedang melakukan pekerjaan dari rumah sehingga anda dapat tetap sehat dan tidak mudah terkena penyakit di era pandemi.',
+            banner: 'Kebahagiaan dimulai dengan kesehatan yang baik.',
+            aboutvm1: 'Mudah Digunakan',
+            aboutvm2: 'Pengingat Otomatis',
+            aboutvm3: 'Mudah Diakses',
+            vm1desc: 'Super Healthy dirancang semaksimal mungkin agar dapat diakses oleh berbagai kalangan dan sangat mudah digunakan.',
+            vm2desc: 'Kamu bisa menentukan pengingat istirahat baik secara otomatis ataupun manual untuk mendapatkan waktu istirahat yang cukup.',
+            vm3desc: 'Super Healthy dapat diakses melalui berbagai device serta dapat diakses dimanapun dan kapanpun.',
+            creator: 'Kreator',
+            creator1: 'Halo saya Mahran Radifan Zhafir, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            creator2: 'Halo saya Tegar Alfalakh Thamrin, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            creator3: 'Halo saya Beltra Saura Rahmadan, saya merupakan orang yang bertanggung jawab pada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        },
     },
 
     en: {
@@ -120,6 +142,28 @@ let content = {
             weight: 'Weight (kg)',
             activity: 'Physical Activity',
             buttonReset: 'Reset',
+            activity1: 'Very Light',
+            activity2: 'Light',
+            activity3: 'Medium',
+            activity4: 'Heavy',
+            activity5: 'Very Heavy',
+            calorieResult: 'Calculation Result',
+            line1: 'The calories required by your body are : ',
+        },
+
+        about: {
+            tagline: " is a digital platform for monitoring your body's health while doing work from home so you can stay healthy and not easily get sick in the pandemic era.",
+            banner: 'Happiness begins with good health.',
+            aboutvm1: 'Easy To Use',
+            aboutvm2: 'Automatic Reminder',
+            aboutvm3: 'Easy To Access',
+            vm1desc: 'Super Healthy is designed as much as possible to be accessible to all groups and very easy to use.',
+            vm2desc: 'You can set rest and drink reminders either automatically or manually to get enough rest and drink water.',
+            vm3desc: 'Super Healthy can be accessed through various devices and can be accessed anywhere and anytime.',
+            creator: 'Creator',
+            creator1: 'Hello, I am Mahran Radifan Zhafir, i am the person in charge of Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            creator2: 'Hello, I am Tegar Alfalakh Thamrin, i am the person in charge of Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            creator3: 'Hello, I am Beltra Saura Rahmadan, i am the person in charge of Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         }
     }
 }
